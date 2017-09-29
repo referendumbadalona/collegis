@@ -37,7 +37,7 @@ Si voleu col·laborar en el referèndum, adreceu-vos al vostre col·legi i ajude
 | Escola Mercè Rodoreda              |         |         |
 | Escola Pública Pau Picasso              |         |         |
 | Escola Pública Planas i Casals    | [La Teva Festa][planasicasals-fb]        | [Moments][planasicasals-tw]        |
-| CEIP Progrès                      | [Festa de la Tardor][tardor-fb]        |         |
+| CEIP Progrès                      | [Festa de la Tardor][progres-fb]        |         |
 | Escola Rafael Alberti              |         |         |
 | Escola Publica Rafael Casanova              |         |         |
 | Col·legi Públic Salvador Espriu              | [Festa de la Tardor][salvadorespriu-fb]        |  [Moments][salvadorespriu-tw]       |
