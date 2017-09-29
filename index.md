@@ -18,7 +18,7 @@ Si voleu col·laborar en el referèndum, adreceu-vos al vostre col·legi i ajude
 | Centre Cívic Dalt la Vila              |         |         |
 | Escola Alexandre Galí              |         |         |
 | Escola pública Antoni Botey              |         |         |
-| Escola Artur Martorell              | [Inici de Curs][arturmartorell-fb]        |         |
+| Escola Artur Martorell              | [Inici de Curs][arturmartorell-fb]        | [Moments][arturmartorell-tw]      |
 | CEIP Baldiri Reixac              |         |         |
 | Escola Public Baldomer Sola              |         |         |
 | CEIP Feliu i Vegués              |         |         |
@@ -49,6 +49,7 @@ Si voleu col·laborar en el referèndum, adreceu-vos al vostre col·legi i ajude
 | Institut La Pineda              |         |         |
 
 [arturmartorell-fb]: https://www.facebook.com/events/248333275691622/
+[arturmartorell-tw]: https://twitter.com/i/moments/913910282686263297
 [canmercader-fb]: https://www.facebook.com/events/1507131589365477/
 [llevant-fb]: https://www.facebook.com/events/119620605394248/
 [llevant-tw]: https://twitter.com/i/moments/edit/913903150201020416
