@@ -12,13 +12,13 @@ Si voleu col·laborar en el referèndum, adreceu-vos al vostre col·legi i ajude
 | Biblioteca Can Casacuberta              |         |         |
 | Casal D'Avis Antonia Boada              |         |         |
 | Casal de Gent Gran de Bonavista-Canyet              |         |         |
-| Casal de Gent Gran de Can Mercader              | [Dia de la Música](canmercader-fb)        |         |
+| Casal de Gent Gran de Can Mercader              | [Dia de la Música][canmercader-fb]        |         |
 | Casal D'Avis Sant Antoni Llefià              |         |         |
 | Centre Cívic Can Cabanyes              |         |         |
 | Centre Cívic Dalt la Vila              |         |         |
 | Escola Alexandre Galí              |         |         |
 | Escola pública Antoni Botey              |         |         |
-| Escola Artur Martorell              | [Inici de Curs](arturmartorell-fb)        |         |
+| Escola Artur Martorell              | [Inici de Curs][arturmartorell-fb]        |         |
 | CEIP Baldiri Reixac              |         |         |
 | Escola Public Baldomer Sola              |         |         |
 | CEIP Feliu i Vegués              |         |         |
@@ -29,18 +29,18 @@ Si voleu col·laborar en el referèndum, adreceu-vos al vostre col·legi i ajude
 | Escola Public Joan Miro              |         |         |
 | Escola Pública Josep Boada              |         |         |
 | Escola Public Josep Carner              |         |         |
-| Escola Jungfrau              | [Convivència](jungfrau-fb)        |         |
-| Escola Llevant Aules Espec         | [48 hores](llevant-fb)        | [Moments](llevant-tw)         |
+| Escola Jungfrau              | [Convivència][jungfrau-fb]        |         |
+| Escola Llevant Aules Espec         | [48 hores][llevant-fb]        | [Moments][llevant-tw]         |
 | Escola Llorens Artigas              |         |         |
 | Escola Lola Anglada              |         |         |
 | Margarida Xirgú              |         |         |
 | Escola Mercè Rodoreda              |         |         |
 | Escola Pública Pau Picasso              |         |         |
-| Escola Pública Planas i Casals    | [La Teva Festa](planasicasals-fb)        | [Moments](planasicasals-tw)        |
-| CEIP Progrès                      | [Festa de la Tardor](tardor-fb)        |         |
+| Escola Pública Planas i Casals    | [La Teva Festa][planasicasals-fb]        | [Moments][planasicasals-tw]        |
+| CEIP Progrès                      | [Festa de la Tardor][tardor-fb]        |         |
 | Escola Rafael Alberti              |         |         |
 | Escola Publica Rafael Casanova              |         |         |
-| Col·legi Públic Salvador Espriu              | [Festa de la Tardor](salvadorespriu-fb)        |  [Moments](salvadorespriu-tw)       |
+| Col·legi Públic Salvador Espriu              | [Festa de la Tardor][salvadorespriu-fb]        |  [Moments][salvadorespriu-tw]       |
 | CEIP Sant Jordi                     |         |         |
 | Institut Badalona VII              |         |         |
 | Institut Enric Borrás              |         |         |
