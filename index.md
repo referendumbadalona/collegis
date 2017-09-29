@@ -40,7 +40,7 @@ Si voleu col·laborar en el referèndum, adreceu-vos al vostre col·legi i ajude
 | CEIP Progrès                      | [Festa de la Tardor](tardor-fb)        |         |
 | Escola Rafael Alberti              |         |         |
 | Escola Publica Rafael Casanova              |         |         |
-| Col·legi Públic Salvador Espriu              |         |  [Moments](salvadorespriu-tw)       |
+| Col·legi Públic Salvador Espriu              | [Festa de la Tardor](salvadorespriu-fb)        |  [Moments](salvadorespriu-tw)       |
 | CEIP Sant Jordi                     |         |         |
 | Institut Badalona VII              |         |         |
 | Institut Enric Borrás              |         |         |
@@ -56,4 +56,5 @@ Si voleu col·laborar en el referèndum, adreceu-vos al vostre col·legi i ajude
 [planasicasals-fb]: https://www.facebook.com/events/944638129008286/
 [planasicasals-tw]: https://twitter.com/i/moments/913899791817625603
 [progres-fb]: https://www.facebook.com/events/248333275691622/
+[salvadorespriu-fb]: https://www.facebook.com/events/1928310014157612/
 [salvadorespriu-tw]: https://twitter.com/i/moments/913900569168932864
