@@ -30,7 +30,7 @@ Si voleu col·laborar en el referèndum, adreceu-vos al vostre col·legi i ajude
 | Escola Pública Josep Boada              |         |         |
 | Escola Public Josep Carner              |         |         |
 | Escola Jungfrau              | [Convivència](jungfrau-fb)        |         |
-| Escola Llevant Aules Espec         | [48 hores](llevant-fb)        |         |
+| Escola Llevant Aules Espec         | [48 hores](llevant-fb)        | [Moments](llevant-tw)         |
 | Escola Llorens Artigas              |         |         |
 | Escola Lola Anglada              |         |         |
 | Margarida Xirgú              |         |         |
@@ -51,6 +51,7 @@ Si voleu col·laborar en el referèndum, adreceu-vos al vostre col·legi i ajude
 [arturmartorell-fb]: https://www.facebook.com/events/248333275691622/
 [canmercader-fb]: https://www.facebook.com/events/1507131589365477/
 [llevant-fb]: https://www.facebook.com/events/119620605394248/
+[llevant-tw]: https://twitter.com/i/moments/edit/913903150201020416
 [jungfrau-fb]: https://www.facebook.com/events/136078790360620/
 [planasicasals-fb]: https://www.facebook.com/events/944638129008286/
 [planasicasals-tw]: https://twitter.com/i/moments/913899791817625603
