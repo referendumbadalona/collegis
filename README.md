@@ -36,7 +36,7 @@ Si voleu col·laborar en el referèndum, adreceu-vos al vostre col·legi i ajude
 | Margarida Xirgú              |         |         |
 | Escola Mercè Rodoreda              |         |         |
 | Escola Pública Pau Picasso              |         |         |
-| Escola Pública Planas i Casals    | [La Teva Festa](planasicasals-fb)        |         |
+| Escola Pública Planas i Casals    | [La Teva Festa](planasicasals-fb)        | [Moment][planasicasals-tw]        |
 | CEIP Progrès                      | [Festa de la Tardor](tardor-fb)        |         |
 | Escola Rafael Alberti              |         |         |
 | Escola Publica Rafael Casanova              |         |         |
@@ -53,4 +53,5 @@ Si voleu col·laborar en el referèndum, adreceu-vos al vostre col·legi i ajude
 [llevant-fb]: https://www.facebook.com/events/119620605394248/
 [jungfrau-fb]: https://www.facebook.com/events/136078790360620/
 [planasicasals-fb]: https://www.facebook.com/events/944638129008286/
+[planasicasals-tw]: https://twitter.com/i/moments/913899791817625603
 [progres-fb]: https://www.facebook.com/events/248333275691622/
