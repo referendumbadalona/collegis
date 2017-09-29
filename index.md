@@ -29,7 +29,7 @@ Si voleu col·laborar en el referèndum, adreceu-vos al vostre col·legi i ajude
 | Escola Public Joan Miro              |         |         |
 | Escola Pública Josep Boada              |         |         |
 | Escola Public Josep Carner              |         |         |
-| Escola Jungfrau              | [Convivència][jungfrau-fb]        |         |
+| Escola Jungfrau              | [Convivència][jungfrau-fb]        | [Moments][jungfrau-tw]        |
 | Escola Llevant Aules Espec         | [48 hores][llevant-fb]        | [Moments][llevant-tw]         |
 | Escola Llorens Artigas              |         |         |
 | Escola Lola Anglada              |         |         |
@@ -53,6 +53,7 @@ Si voleu col·laborar en el referèndum, adreceu-vos al vostre col·legi i ajude
 [llevant-fb]: https://www.facebook.com/events/119620605394248/
 [llevant-tw]: https://twitter.com/i/moments/edit/913903150201020416
 [jungfrau-fb]: https://www.facebook.com/events/136078790360620/
+[jungfrau-tw]: https://twitter.com/i/moments/913909036873068545
 [planasicasals-fb]: https://www.facebook.com/events/944638129008286/
 [planasicasals-tw]: https://twitter.com/i/moments/913899791817625603
 [progres-fb]: https://www.facebook.com/events/248333275691622/
