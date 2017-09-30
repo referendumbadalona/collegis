@@ -32,9 +32,9 @@ Si voleu col·laborar en el referèndum, adreceu-vos al vostre col·legi i ajude
 | Escola Jungfrau              | [Convivència][jungfrau-fb]        | [Moments][jungfrau-tw]        |
 | Escola Llevant Aules Espec         | [48 hores][llevant-fb]        | [Moments][llevant-tw]         |
 | Escola Llorens Artigas              |         |         |
-| Escola Lola Anglada              | [Tardor][lolaanglada-fb]        | [Moment][lolaanglada-tw]        |
+| Escola Lola Anglada              | [Tardor][lolaanglada-fb]        | [Moments][lolaanglada-tw]        |
 | Margarida Xirgú              |         |         |
-| Escola Mercè Rodoreda              |         |         |
+| Escola Mercè Rodoreda              |         | [Moments][[mercerodoreda-tw]        |
 | Escola Pública Pau Picasso              |         |         |
 | Escola Pública Planas i Casals    | [La Teva Festa][planasicasals-fb]        | [Moments][planasicasals-tw]        |
 | CEIP Progrès                      | [Festa de la Tardor][progres-fb]        |         |
@@ -63,6 +63,7 @@ Si voleu col·laborar en el referèndum, adreceu-vos al vostre col·legi i ajude
 [lolaanglada-tw]: https://twitter.com/i/moments/914075865474093057
 [jungfrau-fb]: https://www.facebook.com/events/136078790360620/
 [jungfrau-tw]: https://twitter.com/i/moments/913909036873068545
+[mercerodoreda-tw]: https://twitter.com/i/moments/914195009053892608
 [planasicasals-fb]: https://www.facebook.com/events/944638129008286/
 [planasicasals-tw]: https://twitter.com/i/moments/913899791817625603
 [progres-fb]: https://www.facebook.com/events/248333275691622/
