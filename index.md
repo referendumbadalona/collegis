@@ -22,7 +22,7 @@ Si voleu col·laborar en el referèndum, adreceu-vos al vostre col·legi i ajude
 | CEIP Baldiri Reixac              |         |         |
 | Escola Public Baldomer Sola              |        |  [Moments][[baldomersola-tw]        |
 | CEIP Feliu i Vegués              |         |         |
-| Col·legi Públic Folch i Torres              |         |         |
+| Col·legi Públic Folch i Torres              |         | [Moments][folchitorres-tw]        |
 | Col·legi Públic Itaca              |         |         |
 | Escola Pública Joan Coret              |         |         |
 | Escola Public Joan Llongueras              |         |         |
@@ -58,6 +58,7 @@ Si voleu col·laborar en el referèndum, adreceu-vos al vostre col·legi i ajude
 [cancasacuberta-tw]: https://twitter.com/i/moments/914058265339813888
 [daltlavila-fb]: https://www.facebook.com/events/164369920810758/
 [daltlavila-tw]: https://twitter.com/i/moments/914061629721063424
+[folchitorres-tw]: https://twitter.com/i/moments/914197342097674240
 [llevant-fb]: https://www.facebook.com/events/119620605394248/
 [llevant-tw]: https://twitter.com/i/moments/edit/913903150201020416
 [lolaanglada-fb]: https://www.facebook.com/events/519884201682416/
