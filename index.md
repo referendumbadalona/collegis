@@ -9,7 +9,7 @@ Si voleu col·laborar en el referèndum, adreceu-vos al vostre col·legi i ajude
 | Col·legi  | Altres Activitats  |  Piulets  |
 |-----------|:-:|-----------|
 | Associació de veïns de Canyet           |         |         |
-| Biblioteca Can Casacuberta              |         |         |
+| Biblioteca Can Casacuberta              | [Festa de la Paraula Viva][daltlavila-fb]         | [Moments][cancasacuberta-tw]        |
 | Casal D'Avis Antonia Boada              |         |         |
 | Casal de Gent Gran de Bonavista-Canyet              |         |         |
 | Casal de Gent Gran de Can Mercader              | [Dia de la Música][canmercader-fb]        |         |
@@ -51,6 +51,8 @@ Si voleu col·laborar en el referèndum, adreceu-vos al vostre col·legi i ajude
 [arturmartorell-fb]: https://www.facebook.com/events/248333275691622/
 [arturmartorell-tw]: https://twitter.com/i/moments/913910282686263297
 [canmercader-fb]: https://www.facebook.com/events/1507131589365477/
+[cancasacuberta-fb]: https://www.facebook.com/events/1584935551563531/
+[cancasacuberta-tw]: https://twitter.com/i/moments/914058265339813888
 [daltlavila-fb]: https://www.facebook.com/events/164369920810758/
 [daltlavila-tw]: https://twitter.com/i/moments/914061629721063424
 [llevant-fb]: https://www.facebook.com/events/119620605394248/
