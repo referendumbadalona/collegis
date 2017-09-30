@@ -20,7 +20,7 @@ Si voleu col·laborar en el referèndum, adreceu-vos al vostre col·legi i ajude
 | Escola pública Antoni Botey              |         |         |
 | Escola Artur Martorell              | [Inici de Curs][arturmartorell-fb]        | [Moments][arturmartorell-tw]      |
 | CEIP Baldiri Reixac              |         |         |
-| Escola Public Baldomer Sola              |        |  [Moments][[baldomersola-tw]        |
+| Escola Public Baldomer Sola              |        |  [Moments][baldomersola-tw]        |
 | CEIP Feliu i Vegués              |         |         |
 | Col·legi Públic Folch i Torres              |         | [Moments][folchitorres-tw]        |
 | Col·legi Públic Itaca              |         |         |
