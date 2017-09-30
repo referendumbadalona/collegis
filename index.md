@@ -33,7 +33,7 @@ Si voleu col·laborar en el referèndum, adreceu-vos al vostre col·legi i ajude
 | Escola Llevant Aules Espec         | [48 hores][llevant-fb]        | [Moments][llevant-tw]         |
 | Escola Llorens Artigas              |         |         |
 | Escola Lola Anglada              | [Tardor][lolaanglada-fb]        | [Moments][lolaanglada-tw]        |
-| Margarida Xirgú              |         |         |
+| Margarida Xirgú              |         | [Moments][margaridaxirgu-tw]        |
 | Escola Mercè Rodoreda              |         | [Moments][[mercerodoreda-tw]        |
 | Escola Pública Pau Picasso              |         |         |
 | Escola Pública Planas i Casals    | [La Teva Festa][planasicasals-fb]        | [Moments][planasicasals-tw]        |
@@ -65,6 +65,7 @@ Si voleu col·laborar en el referèndum, adreceu-vos al vostre col·legi i ajude
 [lolaanglada-tw]: https://twitter.com/i/moments/914075865474093057
 [jungfrau-fb]: https://www.facebook.com/events/136078790360620/
 [jungfrau-tw]: https://twitter.com/i/moments/913909036873068545
+[margaridaxirgu-tw]: https://twitter.com/i/moments/914210718983049216
 [mercerodoreda-tw]: https://twitter.com/i/moments/914195009053892608
 [planasicasals-fb]: https://www.facebook.com/events/944638129008286/
 [planasicasals-tw]: https://twitter.com/i/moments/913899791817625603
