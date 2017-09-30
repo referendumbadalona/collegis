@@ -10,7 +10,7 @@ Si voleu col·laborar en el referèndum, adreceu-vos al vostre col·legi i ajude
 |-----------|:-:|-----------|
 | Associació de veïns de Canyet           |         |         |
 | Biblioteca Can Casacuberta              | [Festa de la Paraula Viva][daltlavila-fb]         | [Moments][cancasacuberta-tw]        |
-| Casal D'Avis Antonia Boada              |         |         |
+| Casal D'Avis Antonia Boada              |  [Jocs de Taula][antoniaboada-fb]       |         |
 | Casal de Gent Gran de Bonavista-Canyet              |         |         |
 | Casal de Gent Gran de Can Mercader              | [Dia de la Música][canmercader-fb]        |         |
 | Casal D'Avis Sant Antoni Llefià              |         |         |
@@ -48,6 +48,7 @@ Si voleu col·laborar en el referèndum, adreceu-vos al vostre col·legi i ajude
 | IES Isaac Albéniz              |         |         |
 | Institut La Pineda              |         |         |
 
+[antoniaboada-fb]: https://www.facebook.com/events/485368475169055
 [arturmartorell-fb]: https://www.facebook.com/events/248333275691622/
 [arturmartorell-tw]: https://twitter.com/i/moments/913910282686263297
 [canmercader-fb]: https://www.facebook.com/events/1507131589365477/
