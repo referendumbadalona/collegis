@@ -15,7 +15,7 @@ Si voleu col·laborar en el referèndum, adreceu-vos al vostre col·legi i ajude
 | Casal de Gent Gran de Can Mercader              | [Dia de la Música][canmercader-fb]        |         |
 | Casal D'Avis Sant Antoni Llefià              |         |         |
 | Centre Cívic Can Cabanyes              |         |         |
-| Centre Cívic Dalt la Vila              |         |         |
+| Centre Cívic Dalt la Vila              | [Festa de la Música][daltlavila-fb]        |         |
 | Escola Alexandre Galí              |         |         |
 | Escola pública Antoni Botey              |         |         |
 | Escola Artur Martorell              | [Inici de Curs][arturmartorell-fb]        | [Moments][arturmartorell-tw]      |
@@ -51,6 +51,7 @@ Si voleu col·laborar en el referèndum, adreceu-vos al vostre col·legi i ajude
 [arturmartorell-fb]: https://www.facebook.com/events/248333275691622/
 [arturmartorell-tw]: https://twitter.com/i/moments/913910282686263297
 [canmercader-fb]: https://www.facebook.com/events/1507131589365477/
+[daltlavila-fb]: https://www.facebook.com/events/164369920810758/
 [llevant-fb]: https://www.facebook.com/events/119620605394248/
 [llevant-tw]: https://twitter.com/i/moments/edit/913903150201020416
 [lolaanglada-fb]: https://www.facebook.com/events/519884201682416/
