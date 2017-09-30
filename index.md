@@ -34,7 +34,7 @@ Si voleu col·laborar en el referèndum, adreceu-vos al vostre col·legi i ajude
 | Escola Llorens Artigas              |         |         |
 | Escola Lola Anglada              | [Tardor][lolaanglada-fb]        | [Moments][lolaanglada-tw]        |
 | Margarida Xirgú              |         | [Moments][margaridaxirgu-tw]        |
-| Escola Mercè Rodoreda              |         | [Moments][[mercerodoreda-tw]        |
+| Escola Mercè Rodoreda              |         | [Moments][mercerodoreda-tw]        |
 | Escola Pública Pau Picasso              |         |         |
 | Escola Pública Planas i Casals    | [La Teva Festa][planasicasals-fb]        | [Moments][planasicasals-tw]        |
 | CEIP Progrès                      | [Festa de la Tardor][progres-fb]        |         |
