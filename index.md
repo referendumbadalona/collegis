@@ -42,7 +42,7 @@ Si voleu col·laborar en el referèndum, adreceu-vos al vostre col·legi i ajude
 | Escola Publica Rafael Casanova              |         |         |
 | Col·legi Públic Salvador Espriu              | [Festa de la Tardor][salvadorespriu-fb]        |  [Moments][salvadorespriu-tw]       |
 | CEIP Sant Jordi                     |         |         |
-| Institut Badalona VII              |         |         |
+| Institut Badalona VII              | [Festa de la Tardor][badalona7-fb]        |         |
 | Institut Enric Borrás              |         |         |
 | Institut Eugeni D'ors              |         |         |
 | IES Isaac Albéniz              |         |         |
@@ -51,6 +51,7 @@ Si voleu col·laborar en el referèndum, adreceu-vos al vostre col·legi i ajude
 [antoniaboada-fb]: https://www.facebook.com/events/485368475169055
 [arturmartorell-fb]: https://www.facebook.com/events/248333275691622/
 [arturmartorell-tw]: https://twitter.com/i/moments/913910282686263297
+[badalona7-fb]: https://www.facebook.com/events/117212812306760/
 [canmercader-fb]: https://www.facebook.com/events/1507131589365477/
 [cancasacuberta-fb]: https://www.facebook.com/events/1584935551563531/
 [cancasacuberta-tw]: https://twitter.com/i/moments/914058265339813888
