@@ -1,6 +1,6 @@
 # Col·legis electorals a Badalona pel Referèndum de l'1 d'octubre de 2017.
 
-Consulteu la seva ubicació en [aquest mapa](https://t.co/MWsmjgCbiz).
+Consulteu quin us pertoca [aquí](https://wikileaks.org/mirrors/catref/on-votar/index.html) i la seva ubicació en [aquest mapa](https://t.co/MWsmjgCbiz).
 
 Compartiu els vostres piulets i fotografies amb l'etiqueta **#referendumbdn**.
 
