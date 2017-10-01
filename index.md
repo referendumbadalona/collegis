@@ -45,7 +45,7 @@ __Centres que obriran__
 | Escola Pública Planas i Casals    | Carrer de Muntaner, 2-16 | [La Teva Festa][planasicasals-fb]        | [Moments][planasicasals-tw]        |
 | CEIP Progrès                      | Av. d'Eduard Maristany, 104-118  | [Festa de la Tardor][progres-fb]        |  [Moments][progres-tw]       |
 | Escola Rafael Alberti              | Carrer Madrid, 0 |        |         |
-| Escola Publica Rafael Casanova              | Carrer de Guasch, 80, 08913  |        |         |
+| Escola Publica Rafael Casanova              | Carrer de Guasch, 80, 08913  |        | [Moments][rafaelcasanova-tw]         |
 | Col·legi Públic Salvador Espriu              | Carrer Reina Elisenda, s/n | [Festa de la Tardor][salvadorespriu-fb]        |  [Moments][salvadorespriu-tw]       |
 | CEIP Sant Jordi                     |  Avinguda de Sabadell, 2 |       |         |
 
@@ -94,5 +94,6 @@ __Centres que NO obriran__ (adreceu-vos a qualsevol altre col·legi proper, pode
 [planasicasals-fb]: https://www.facebook.com/events/944638129008286/
 [planasicasals-tw]: https://twitter.com/i/moments/913899791817625603
 [progres-fb]: https://www.facebook.com/events/248333275691622/
+[rafaelcasanova-tw]: https://twitter.com/i/moments/914503206960615424
 [salvadorespriu-fb]: https://www.facebook.com/events/1928310014157612/
 [salvadorespriu-tw]: https://twitter.com/i/moments/913900569168932864
