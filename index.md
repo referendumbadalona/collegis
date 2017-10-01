@@ -33,7 +33,7 @@ __Centres que obriran__
 | Escola Pública Joan Coret              | Plaça Voluntaris Olímpics, 3 |        | [Moments][joancoret-tw]        |
 | Escola Public Joan Llongueras              | Carrer Sant Fermí, 3 |        | [Moments][joanllongueras-tw]         |
 | Escola Public Joan Miro              |  Plaça Alcalde Joan Manent |       |         |
-| Escola Pública Josep Boada              | Avinguda del Marquès de Mont-Roig, 169 |         |         |
+| Escola Pública Josep Boada              | Avinguda del Marquès de Mont-Roig, 169 |         | [Moments][josepboada-tw]        |
 | Escola Public Josep Carner              | Carrer Brasil |        |         |
 | Escola Jungfrau              | Carrer d'en Vila i Vall-llebrera, s/n  | [Convivència][jungfrau-fb]        | [Moments][jungfrau-tw]        |
 | Escola Llevant Aules Espec         | Av. de Martí Pujol, 110 | [48 hores][llevant-fb]        | [Moments][llevant-tw]         |
@@ -80,6 +80,7 @@ __Centres que NO obriran__ (adreceu-vos a qualsevol altre col·legi proper, pode
 [itaca-tw]: https://twitter.com/i/moments/914380656318218241
 [joancoret-tw]: https://twitter.com/i/moments/914213321192198145
 [joanllongueras-tw]: https://twitter.com/i/moments/914389982441349120
+[josepboada-tw]: https://twitter.com/i/moments/914407520965414912
 [llevant-fb]: https://www.facebook.com/events/119620605394248/
 [llevant-tw]: https://twitter.com/i/moments/edit/913903150201020416
 [lolaanglada-fb]: https://www.facebook.com/events/519884201682416/
