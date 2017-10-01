@@ -1,5 +1,7 @@
 # Col·legis electorals a Badalona pel Referèndum de l'1 d'octubre de 2017.
 
+Seguiu-nos en temps real al nostre [Twitter @referendumbdn](https://twitter.com/referendumbdn) i el nostre [canal de Telegram](https://t.co/c6EZDZcsKl).
+
 Consulteu quin col·legi us pertoca [aquí](https://wikileaks.org/mirrors/catref/on-votar/index.html) i la seva ubicació en [aquest mapa](https://t.co/MWsmjgCbiz).
 
 **[ACTUALITZACIÓ 1:30]** Si us ha tocat votar a un institut (IES Eugeni d'Ors, La Pineda, Badalona VII, Enric Borràs i Isaac Albèniz), et trobaràs el col·legi tancat. Podeu votar a qualsevol altre dels col·legis propers sense problema.
