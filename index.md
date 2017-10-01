@@ -21,8 +21,8 @@ __Centres que obriran__
 | Casal de Gent Gran de Can Mercader              | Plaça Lluís Solà Escofet, 15, (Can Mercader) | [Dia de la Música][canmercader-fb]        | [Moments][canmercader-tw]        |
 | Casal D'Avis Sant Antoni Llefià              | Carrer de Sant Frederic, 15 |        |         |
 | Centre Cívic Can Cabanyes              | Rambla Sant Joan, 59 -77 |        |         |
-| Centre Cívic Dalt la Vila              | C/ Germà Bernabé, 1-7 | [Festa de la Música][daltlavila-fb]        | [Moments][daltlavila-tw]        |
-| Escola Alexandre Galí              | Avinguda de Caritg, s/n |        |         |
+| Centre Cívic Dalt la Vila              | C/ Germà Bernabé, 1-7 | [Festa de la Música][daltlavila-fb] | [Moments][daltlavila-tw]        |
+| Escola Alexandre Galí              | Avinguda de Caritg, s/n |        | [Moments][alexandregali-tw]        |
 | Escola pública Antoni Botey              |  Avinguda del Doctor Bassols, 77  |       |         |
 | Escola Artur Martorell              | Carrer de la Seu d'Urgell, 34  | [Inici de Curs][arturmartorell-fb]        | [Moments][arturmartorell-tw]      |
 | CEIP Baldiri Reixac              | Carrer de Juan Valera, 159 |        |         |
@@ -59,6 +59,7 @@ __Centres que NO obriran__ (adreceu-vos a qualsevol altre col·legi proper, pode
 | IES Isaac Albéniz      | Escola Artur Martorell, Escola Planas i Casals, Casal Antonia Boada, Escola Salvador Espriu   |    | |
 | Institut La Pineda    | Escola Joan Llongueras, Centre Cívic Can Cabanyes, Escola Jungfrau          |         |         |
 
+[alexandregali-tw]: https://twitter.com/i/moments/914362034925576192
 [antoniaboada-fb]: https://www.facebook.com/events/485368475169055
 [antoniaboada-tw]: https://twitter.com/i/moments/914147578308173824
 [arturmartorell-fb]: https://www.facebook.com/events/248333275691622/
