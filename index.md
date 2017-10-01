@@ -1,10 +1,18 @@
 # Col·legis electorals a Badalona pel Referèndum de l'1 d'octubre de 2017.
 
+** [ACTUALITZACIÓ 4:00] ** Necessitem reforçar la presència als següents col·legis: Baldomer Solà, Antoni Botey, Casal Sant Antoni de Llefià, Alexandre Galí, Baldiri Rexac, Feliu i Vegués, Escola Ítaca, Joan Llongueras, Josep Boada i Josep Carner.
+
+** [ACTUALITZACIÓ 1:30] ** Si us ha tocat votar a un institut (IES Eugeni d'Ors, La Pineda, Badalona VII, Enric Borràs i Isaac Albèniz), et trobaràs el col·legi tancat. Podeu votar a qualsevol altre dels col·legis propers sense problema.
+
+
+
 Consulteu quin us pertoca [aquí](https://wikileaks.org/mirrors/catref/on-votar/index.html) i la seva ubicació en [aquest mapa](https://t.co/MWsmjgCbiz).
 
-Compartiu els vostres piulets i fotografies amb l'etiqueta **#referendumbdn**.
+Compartiu els vostres piulets i fotografies amb l'etiqueta **#Bdn1O**.
 
 Si voleu col·laborar en el referèndum, adreceu-vos al vostre col·legi i ajudeu, d'una forma pacífica, a garantir el dret a vot dels veïns i veïnes de Badalona.
+
+__ Centres que obriran__ 
 
 | Col·legi  | Altres Activitats  |  Piulets  |
 |-----------|:-:|-----------|
@@ -20,10 +28,10 @@ Si voleu col·laborar en el referèndum, adreceu-vos al vostre col·legi i ajude
 | Escola pública Antoni Botey              |         |         |
 | Escola Artur Martorell              | [Inici de Curs][arturmartorell-fb]        | [Moments][arturmartorell-tw]      |
 | CEIP Baldiri Reixac              |         |         |
-| Escola Public Baldomer Sola              |        |  [Moments][baldomersola-tw]        |
 | CEIP Feliu i Vegués              |         |         |
 | Col·legi Públic Folch i Torres              |         | [Moments][folchitorres-tw]        |
 | Col·legi Públic Itaca              |         |         |
+| Escola Public Baldomer Sola              |        |  [Moments][baldomersola-tw]        |
 | Escola Pública Joan Coret              |         | [Moments][joancoret-tw]        |
 | Escola Public Joan Llongueras              |         |         |
 | Escola Public Joan Miro              |         |         |
@@ -42,6 +50,10 @@ Si voleu col·laborar en el referèndum, adreceu-vos al vostre col·legi i ajude
 | Escola Publica Rafael Casanova              |         |         |
 | Col·legi Públic Salvador Espriu              | [Festa de la Tardor][salvadorespriu-fb]        |  [Moments][salvadorespriu-tw]       |
 | CEIP Sant Jordi                     |         |         |
+
+__ Centres que NO obriran__ (adreceu-vos a qualsevol altre col·legi proper)
+
+| Col·legi  | Altres Activitats  |  Piulets  |
 | Institut Badalona VII              | [Festa de la Tardor][badalona7-fb]        |         |
 | Institut Enric Borrás              |         |         |
 | Institut Eugeni D'ors              |         |         |
