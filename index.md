@@ -49,10 +49,11 @@ __Centres que obriran__
 __Centres que NO obriran__ (adreceu-vos a qualsevol altre col·legi proper)
 
 | Col·legi  | Col·legis propers | Altres Activitats  |  Piulets  |
-| Institut Badalona VII   | CEIP Progrés, Centre Cívic Can Cabanyes, Escola Mercè Rodoreda, Escola Llorenç Artigas           | [Festa de la Tardor][badalona7-fb]        |         |
-| Institut Enric Borrás              |         |         |
+|-----------|-----------|:-:|-----------|
+| Institut Badalona VII   | CEIP Progrés, Centre Cívic Can Cabanyes, Escola Mercè Rodoreda, Escola Llorenç Artigas  | [Festa de la Tardor][badalona7-fb]        |         |
+| Institut Enric Borrás         | Escola Josep Carner, Escola Alexandre Galí, Escola Margarita Xirgu, CEIP Baldiri Rexac     |    |   |
 | Institut Eugeni D'ors  | Escola Baldomer Solà, Escola Rafael Alberti, Escola Rafael Casanova            |         |   |
-| IES Isaac Albéniz      | Escola Artur Martorell, Escola Planas i Casals, Casal Antonia Boada, Escola Salvador Espriu        |         |
+| IES Isaac Albéniz      | Escola Artur Martorell, Escola Planas i Casals, Casal Antonia Boada, Escola Salvador Espriu   |    | |
 | Institut La Pineda    | Escola Joan Llongueras, Centre Cívic Can Cabanyes, Escola Jungfrau          |         |         |
 
 [antoniaboada-fb]: https://www.facebook.com/events/485368475169055
