@@ -1,52 +1,50 @@
 # Col·legis electorals a Badalona pel Referèndum de l'1 d'octubre de 2017.
 
 Consulteu quin col·legi us pertoca [aquí](https://wikileaks.org/mirrors/catref/on-votar/index.html) i la seva ubicació en [aquest mapa](https://t.co/MWsmjgCbiz).
-
-**[ACTUALITZACIÓ 4:00]** Necessitem reforçar la presència als següents col·legis: Baldomer Solà, Antoni Botey, Casal Sant Antoni de Llefià, Alexandre Galí, Baldiri Rexac, Feliu i Vegués, Escola Ítaca, Joan Llongueras, Josep Boada i Josep Carner.
-
 **[ACTUALITZACIÓ 1:30]** Si us ha tocat votar a un institut (IES Eugeni d'Ors, La Pineda, Badalona VII, Enric Borràs i Isaac Albèniz), et trobaràs el col·legi tancat. Podeu votar a qualsevol altre dels col·legis propers sense problema.
 
+**[ACTUALITZACIÓ 4:00]** Necessitem reforçar la presència als següents col·legis: Baldomer Solà, Antoni Botey, Casal Sant Antoni de Llefià, Alexandre Galí, Baldiri Rexac, Feliu i Vegués, Escola Ítaca, Joan Llongueras, Josep Boada i Josep Carner.
 
 Compartiu els vostres piulets i fotografies amb l'etiqueta **#Bdn1O**. Si voleu col·laborar en el referèndum, adreceu-vos al vostre col·legi i ajudeu, d'una forma pacífica, a garantir el dret a vot dels veïns i veïnes de Badalona.
 
 __Centres que obriran__ 
 
-| Col·legi  | Altres Activitats  |  Piulets  |
-|-----------|:-:|-----------|
-| Associació de veïns de Canyet           |         |         |
-| Biblioteca Can Casacuberta              | [Festa de la Paraula Viva][daltlavila-fb]         | [Moments][cancasacuberta-tw]        |
-| Casal D'Avis Antonia Boada              |  [Jocs de Taula][antoniaboada-fb]       |         |
-| Casal de Gent Gran de Bonavista-Canyet              |         |         |
-| Casal de Gent Gran de Can Mercader              | [Dia de la Música][canmercader-fb]        |         |
-| Casal D'Avis Sant Antoni Llefià              |         |         |
-| Centre Cívic Can Cabanyes              |         |         |
-| Centre Cívic Dalt la Vila              | [Festa de la Música][daltlavila-fb]        | [Moments][daltlavila-tw]        |
-| Escola Alexandre Galí              |         |         |
-| Escola pública Antoni Botey              |         |         |
-| Escola Artur Martorell              | [Inici de Curs][arturmartorell-fb]        | [Moments][arturmartorell-tw]      |
-| CEIP Baldiri Reixac              |         |         |
-| CEIP Feliu i Vegués              |         |         |
-| Col·legi Públic Folch i Torres              |         | [Moments][folchitorres-tw]        |
-| Col·legi Públic Itaca              |         |         |
-| Escola Public Baldomer Sola              |        |  [Moments][baldomersola-tw]        |
-| Escola Pública Joan Coret              |         | [Moments][joancoret-tw]        |
-| Escola Public Joan Llongueras              |         |         |
-| Escola Public Joan Miro              |         |         |
-| Escola Pública Josep Boada              |         |         |
-| Escola Public Josep Carner              |         |         |
-| Escola Jungfrau              | [Convivència][jungfrau-fb]        | [Moments][jungfrau-tw]        |
-| Escola Llevant Aules Espec         | [48 hores][llevant-fb]        | [Moments][llevant-tw]         |
-| Escola Llorens Artigas              |         |         |
-| Escola Lola Anglada              | [Tardor][lolaanglada-fb]        | [Moments][lolaanglada-tw]        |
-| Margarida Xirgú              |         | [Moments][margaridaxirgu-tw]        |
-| Escola Mercè Rodoreda              |         | [Moments][mercerodoreda-tw]        |
-| Escola Pública Pau Picasso              |         | [Moments][paupicasso-tw]        |
-| Escola Pública Planas i Casals    | [La Teva Festa][planasicasals-fb]        | [Moments][planasicasals-tw]        |
-| CEIP Progrès                      | [Festa de la Tardor][progres-fb]        |         |
-| Escola Rafael Alberti              |         |         |
-| Escola Publica Rafael Casanova              |         |         |
-| Col·legi Públic Salvador Espriu              | [Festa de la Tardor][salvadorespriu-fb]        |  [Moments][salvadorespriu-tw]       |
-| CEIP Sant Jordi                     |         |         |
+| Col·legi  | Adreça    |  Altres Activitats  |  Piulets  |
+|-----------|-----------|:-:|-----------|
+| Associació de veïns de Canyet           | Riera de Canyet, 27 |        |         |
+| Biblioteca Can Casacuberta              | Carrer de Mossèn Anton Romeu, 48 ( espai Bet: enric borras 43-47) | [Festa de la Paraula Viva][daltlavila-fb]         | [Moments][cancasacuberta-tw]        |
+| Casal D'Avis Antonia Boada              | Plaça Antonia Boada i Ros, 0,  | [Jocs de Taula][antoniaboada-fb]       |         |
+| Casal de Gent Gran de Bonavista-Canyet              |  Carrer d'Eliseu Meifren, 48 |        |         |
+| Casal de Gent Gran de Can Mercader              | Plaça Lluís Solà Escofet, 15, (Can Mercader) | [Dia de la Música][canmercader-fb]        |         |
+| Casal D'Avis Sant Antoni Llefià              | Carrer de Sant Frederic, 15 |        |         |
+| Centre Cívic Can Cabanyes              | Rambla Sant Joan, 59 -77 |        |         |
+| Centre Cívic Dalt la Vila              | C/ Germà Bernabé, 1-7 | [Festa de la Música][daltlavila-fb]        | [Moments][daltlavila-tw]        |
+| Escola Alexandre Galí              | Avinguda de Caritg, s/n |        |         |
+| Escola pública Antoni Botey              |  Avinguda del Doctor Bassols, 77  |       |         |
+| Escola Artur Martorell              | Carrer de la Seu d'Urgell, 34  | [Inici de Curs][arturmartorell-fb]        | [Moments][arturmartorell-tw]      |
+| CEIP Baldiri Reixac              | Carrer de Juan Valera, 159 |        |         |
+| CEIP Feliu i Vegués              | Carrer de Feliu i Vegués, 2 |        |         |
+| Col·legi Públic Folch i Torres              | Carrer de Wagner, 68-84 |        | [Moments][folchitorres-tw]        |
+| Col·legi Públic Itaca              | Ctra. Antiga de València, 99  |        |         |
+| Escola Public Baldomer Sola              | Avinguda del Marquès de Mont-Roig, 178 |       |  [Moments][baldomersola-tw]        |
+| Escola Pública Joan Coret              | Plaça Voluntaris Olímpics, 3 |        | [Moments][joancoret-tw]        |
+| Escola Public Joan Llongueras              | Carrer Sant Fermí, 3 |        |         |
+| Escola Public Joan Miro              |  Plaça Alcalde Joan Manent |       |         |
+| Escola Pública Josep Boada              | Avinguda del Marquès de Mont-Roig, 169 |         |         |
+| Escola Public Josep Carner              | Carrer Brasil |        |         |
+| Escola Jungfrau              | Carrer d'en Vila i Vall-llebrera, s/n  | [Convivència][jungfrau-fb]        | [Moments][jungfrau-tw]        |
+| Escola Llevant Aules Espec         | Av. de Martí Pujol, 110 | [48 hores][llevant-fb]        | [Moments][llevant-tw]         |
+| Escola Llorens Artigas              | Avinguda de Catalunya, 20  |        |         |
+| Escola Lola Anglada              | Riera de Canyadó, 53 | [Tardor][lolaanglada-fb]        | [Moments][lolaanglada-tw]        |
+| Margarida Xirgú              | Carrer de Torí, s/n |        | [Moments][margaridaxirgu-tw]        |
+| Escola Mercè Rodoreda              | Avinguda de Catalunya, 30  |        | [Moments][mercerodoreda-tw]        |
+| Escola Pública Pau Picasso              | Carrer Pau Picasso, 28-32 |        | [Moments][paupicasso-tw]        |
+| Escola Pública Planas i Casals    | Carrer de Muntaner, 2-16 | [La Teva Festa][planasicasals-fb]        | [Moments][planasicasals-tw]        |
+| CEIP Progrès                      | Av. d'Eduard Maristany, 104-118  | [Festa de la Tardor][progres-fb]        |         |
+| Escola Rafael Alberti              | Carrer Madrid, 0 |        |         |
+| Escola Publica Rafael Casanova              | Carrer de Guasch, 80, 08913  |        |         |
+| Col·legi Públic Salvador Espriu              | Carrer Reina Elisenda, s/n | [Festa de la Tardor][salvadorespriu-fb]        |  [Moments][salvadorespriu-tw]       |
+| CEIP Sant Jordi                     |  Avinguda de Sabadell, 2 |       |         |
 
 __Centres que NO obriran__ (adreceu-vos a qualsevol altre col·legi proper)
 
