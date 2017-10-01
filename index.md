@@ -16,7 +16,7 @@ __Centres que obriran__
 | Biblioteca Can Casacuberta              | Carrer de Mossèn Anton Romeu, 48 ( espai Bet: enric borras 43-47) | [Festa de la Paraula Viva][daltlavila-fb]         | [Moments][cancasacuberta-tw]        |
 | Casal D'Avis Antonia Boada              | Plaça Antonia Boada i Ros, 0,  | [Jocs de Taula][antoniaboada-fb]       | [Moments][antoniaboada-tw]        |
 | Casal de Gent Gran de Bonavista-Canyet              |  Carrer d'Eliseu Meifren, 48 |        |         |
-| Casal de Gent Gran de Can Mercader              | Plaça Lluís Solà Escofet, 15, (Can Mercader) | [Dia de la Música][canmercader-fb]        |         |
+| Casal de Gent Gran de Can Mercader              | Plaça Lluís Solà Escofet, 15, (Can Mercader) | [Dia de la Música][canmercader-fb]        | [Moments][canmercader-tw]        |
 | Casal D'Avis Sant Antoni Llefià              | Carrer de Sant Frederic, 15 |        |         |
 | Centre Cívic Can Cabanyes              | Rambla Sant Joan, 59 -77 |        |         |
 | Centre Cívic Dalt la Vila              | C/ Germà Bernabé, 1-7 | [Festa de la Música][daltlavila-fb]        | [Moments][daltlavila-tw]        |
@@ -64,6 +64,7 @@ __Centres que NO obriran__ (adreceu-vos a qualsevol altre col·legi proper, pode
 [badalona7-fb]: https://www.facebook.com/events/117212812306760/
 [baldomersola-tw]: https://twitter.com/i/moments/914195797247447042
 [canmercader-fb]: https://www.facebook.com/events/1507131589365477/
+[canmercader-tw]: https://twitter.com/i/moments/914344702866001922
 [cancasacuberta-fb]: https://www.facebook.com/events/1584935551563531/
 [cancasacuberta-tw]: https://twitter.com/i/moments/914058265339813888
 [daltlavila-fb]: https://www.facebook.com/events/164369920810758/
