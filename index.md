@@ -12,7 +12,7 @@ Compartiu els vostres piulets i fotografies amb l'etiqueta **#Bdn1O**.
 
 Si voleu col·laborar en el referèndum, adreceu-vos al vostre col·legi i ajudeu, d'una forma pacífica, a garantir el dret a vot dels veïns i veïnes de Badalona.
 
-__ Centres que obriran__ 
+__Centres que obriran__ 
 
 | Col·legi  | Altres Activitats  |  Piulets  |
 |-----------|:-:|-----------|
@@ -51,7 +51,7 @@ __ Centres que obriran__
 | Col·legi Públic Salvador Espriu              | [Festa de la Tardor][salvadorespriu-fb]        |  [Moments][salvadorespriu-tw]       |
 | CEIP Sant Jordi                     |         |         |
 
-__ Centres que NO obriran__ (adreceu-vos a qualsevol altre col·legi proper)
+__Centres que NO obriran__ (adreceu-vos a qualsevol altre col·legi proper)
 
 | Col·legi  | Altres Activitats  |  Piulets  |
 | Institut Badalona VII              | [Festa de la Tardor][badalona7-fb]        |         |
