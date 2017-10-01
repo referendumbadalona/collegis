@@ -1,8 +1,8 @@
 # Col·legis electorals a Badalona pel Referèndum de l'1 d'octubre de 2017.
 
-** [ACTUALITZACIÓ 4:00] ** Necessitem reforçar la presència als següents col·legis: Baldomer Solà, Antoni Botey, Casal Sant Antoni de Llefià, Alexandre Galí, Baldiri Rexac, Feliu i Vegués, Escola Ítaca, Joan Llongueras, Josep Boada i Josep Carner.
+**[ACTUALITZACIÓ 4:00]** Necessitem reforçar la presència als següents col·legis: Baldomer Solà, Antoni Botey, Casal Sant Antoni de Llefià, Alexandre Galí, Baldiri Rexac, Feliu i Vegués, Escola Ítaca, Joan Llongueras, Josep Boada i Josep Carner.
 
-** [ACTUALITZACIÓ 1:30] ** Si us ha tocat votar a un institut (IES Eugeni d'Ors, La Pineda, Badalona VII, Enric Borràs i Isaac Albèniz), et trobaràs el col·legi tancat. Podeu votar a qualsevol altre dels col·legis propers sense problema.
+**[ACTUALITZACIÓ 1:30]** Si us ha tocat votar a un institut (IES Eugeni d'Ors, La Pineda, Badalona VII, Enric Borràs i Isaac Albèniz), et trobaràs el col·legi tancat. Podeu votar a qualsevol altre dels col·legis propers sense problema.
 
 
 
