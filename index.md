@@ -28,7 +28,7 @@ __Centres que obriran__
 | CEIP Baldiri Reixac              | Carrer de Juan Valera, 159 |        |         |
 | CEIP Feliu i Vegués              | Carrer de Feliu i Vegués, 2 |        | [Moments][feliuvegues-tw]        |
 | Col·legi Públic Folch i Torres              | Carrer de Wagner, 68-84 |        | [Moments][folchitorres-tw]        |
-| Col·legi Públic Itaca              | Ctra. Antiga de València, 99  |        |         |
+| Col·legi Públic Itaca              | Ctra. Antiga de València, 99  |        | [Moments][itaca-tw]        |
 | Escola Public Baldomer Sola              | Avinguda del Marquès de Mont-Roig, 178 |       |  [Moments][baldomersola-tw]        |
 | Escola Pública Joan Coret              | Plaça Voluntaris Olímpics, 3 |        | [Moments][joancoret-tw]        |
 | Escola Public Joan Llongueras              | Carrer Sant Fermí, 3 |        |         |
@@ -75,6 +75,7 @@ __Centres que NO obriran__ (adreceu-vos a qualsevol altre col·legi proper, pode
 [daltlavila-tw]: https://twitter.com/i/moments/914061629721063424
 [feliuvegues-tw]: https://twitter.com/i/moments/914332200627294209
 [folchitorres-tw]: https://twitter.com/i/moments/914197342097674240
+[itaca-tw]: https://twitter.com/i/moments/914380656318218241
 [joancoret-tw]: https://twitter.com/i/moments/914213321192198145
 [llevant-fb]: https://www.facebook.com/events/119620605394248/
 [llevant-tw]: https://twitter.com/i/moments/edit/913903150201020416
