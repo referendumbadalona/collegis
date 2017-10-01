@@ -43,7 +43,7 @@ __Centres que obriran__
 | Escola Mercè Rodoreda              | Avinguda de Catalunya, 30  |        | [Moments][mercerodoreda-tw]        |
 | Escola Pública Pau Picasso              | Carrer Pau Picasso, 28-32 |        | [Moments][paupicasso-tw]        |
 | Escola Pública Planas i Casals    | Carrer de Muntaner, 2-16 | [La Teva Festa][planasicasals-fb]        | [Moments][planasicasals-tw]        |
-| CEIP Progrès                      | Av. d'Eduard Maristany, 104-118  | [Festa de la Tardor][progres-fb]        |         |
+| CEIP Progrès                      | Av. d'Eduard Maristany, 104-118  | [Festa de la Tardor][progres-fb]        |  [Moments][progres-tw]       |
 | Escola Rafael Alberti              | Carrer Madrid, 0 |        |         |
 | Escola Publica Rafael Casanova              | Carrer de Guasch, 80, 08913  |        |         |
 | Col·legi Públic Salvador Espriu              | Carrer Reina Elisenda, s/n | [Festa de la Tardor][salvadorespriu-fb]        |  [Moments][salvadorespriu-tw]       |
@@ -84,6 +84,7 @@ __Centres que NO obriran__ (adreceu-vos a qualsevol altre col·legi proper, pode
 [margaridaxirgu-tw]: https://twitter.com/i/moments/914210718983049216
 [mercerodoreda-tw]: https://twitter.com/i/moments/914195009053892608
 [paupicasso-tw]: https://twitter.com/i/moments/914219913908191232
+[progres-tw]: https://twitter.com/i/moments/914366786774159361
 [planasicasals-fb]: https://www.facebook.com/events/944638129008286/
 [planasicasals-tw]: https://twitter.com/i/moments/913899791817625603
 [progres-fb]: https://www.facebook.com/events/248333275691622/
