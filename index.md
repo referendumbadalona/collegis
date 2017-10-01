@@ -14,7 +14,7 @@ __Centres que obriran__
 
 | Col·legi  | Adreça    |  Altres Activitats  |  Piulets  |
 |-----------|-----------|:-:|-----------|
-| Associació de veïns de Canyet           | Riera de Canyet, 27 |        |         |
+| Associació de veïns de Canyet           | Riera de Canyet, 27 |        | [Moments][canyet-tw]         |
 | Biblioteca Can Casacuberta              | Carrer de Mossèn Anton Romeu, 48 ( espai Bet: enric borras 43-47) | [Festa de la Paraula Viva][daltlavila-fb]         | [Moments][cancasacuberta-tw]        |
 | Casal D'Avis Antonia Boada              | Plaça Antonia Boada i Ros, 0,  | [Jocs de Taula][antoniaboada-fb]       | [Moments][antoniaboada-tw]        |
 | Casal de Gent Gran de Bonavista-Canyet              |  Carrer d'Eliseu Meifren, 48 |        |         |
@@ -71,6 +71,7 @@ __Centres que NO obriran__ (adreceu-vos a qualsevol altre col·legi proper, pode
 [canmercader-tw]: https://twitter.com/i/moments/914344702866001922
 [cancasacuberta-fb]: https://www.facebook.com/events/1584935551563531/
 [cancasacuberta-tw]: https://twitter.com/i/moments/914058265339813888
+[canyet-tw]: https://twitter.com/i/moments/914397723352338432
 [daltlavila-fb]: https://www.facebook.com/events/164369920810758/
 [daltlavila-tw]: https://twitter.com/i/moments/914061629721063424
 [feliuvegues-tw]: https://twitter.com/i/moments/914332200627294209
