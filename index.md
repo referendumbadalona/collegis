@@ -23,7 +23,7 @@ __Centres que obriran__
 | Centre Cívic Can Cabanyes              | Rambla Sant Joan, 59 -77 |        |         |
 | Centre Cívic Dalt la Vila              | C/ Germà Bernabé, 1-7 | [Festa de la Música][daltlavila-fb] | [Moments][daltlavila-tw]        |
 | Escola Alexandre Galí              | Avinguda de Caritg, s/n |        | [Moments][alexandregali-tw]        |
-| Escola pública Antoni Botey              |  Avinguda del Doctor Bassols, 77  |       |         |
+| Escola pública Antoni Botey              |  Avinguda del Doctor Bassols, 77  |       | [Moments][antonibotey-tw]        |
 | Escola Artur Martorell              | Carrer de la Seu d'Urgell, 34  | [Inici de Curs][arturmartorell-fb]        | [Moments][arturmartorell-tw]      |
 | CEIP Baldiri Reixac              | Carrer de Juan Valera, 159 |        |         |
 | CEIP Feliu i Vegués              | Carrer de Feliu i Vegués, 2 |        | [Moments][feliuvegues-tw]        |
@@ -62,6 +62,7 @@ __Centres que NO obriran__ (adreceu-vos a qualsevol altre col·legi proper, pode
 [alexandregali-tw]: https://twitter.com/i/moments/914362034925576192
 [antoniaboada-fb]: https://www.facebook.com/events/485368475169055
 [antoniaboada-tw]: https://twitter.com/i/moments/914147578308173824
+[antonibotey-tw]: https://twitter.com/i/moments/914370816820830208
 [arturmartorell-fb]: https://www.facebook.com/events/248333275691622/
 [arturmartorell-tw]: https://twitter.com/i/moments/913910282686263297
 [badalona7-fb]: https://www.facebook.com/events/117212812306760/
