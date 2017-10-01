@@ -1,6 +1,7 @@
 # Col·legis electorals a Badalona pel Referèndum de l'1 d'octubre de 2017.
 
 Consulteu quin col·legi us pertoca [aquí](https://wikileaks.org/mirrors/catref/on-votar/index.html) i la seva ubicació en [aquest mapa](https://t.co/MWsmjgCbiz).
+
 **[ACTUALITZACIÓ 1:30]** Si us ha tocat votar a un institut (IES Eugeni d'Ors, La Pineda, Badalona VII, Enric Borràs i Isaac Albèniz), et trobaràs el col·legi tancat. Podeu votar a qualsevol altre dels col·legis propers sense problema.
 
 **[ACTUALITZACIÓ 4:00]** Necessitem reforçar la presència als següents col·legis: Baldomer Solà, Antoni Botey, Casal Sant Antoni de Llefià, Alexandre Galí, Baldiri Rexac, Feliu i Vegués, Escola Ítaca, Joan Llongueras, Josep Boada i Josep Carner.
@@ -46,7 +47,7 @@ __Centres que obriran__
 | Col·legi Públic Salvador Espriu              | Carrer Reina Elisenda, s/n | [Festa de la Tardor][salvadorespriu-fb]        |  [Moments][salvadorespriu-tw]       |
 | CEIP Sant Jordi                     |  Avinguda de Sabadell, 2 |       |         |
 
-__Centres que NO obriran__ (adreceu-vos a qualsevol altre col·legi proper)
+__Centres que NO obriran__ (adreceu-vos a qualsevol altre col·legi proper, podeu buscar-los en [aquest mapa](https://t.co/MWsmjgCbiz).)
 
 | Col·legi  | Col·legis propers | Altres Activitats  |  Piulets  |
 |-----------|-----------|:-:|-----------|
