@@ -14,7 +14,7 @@ __Centres que obriran__
 |-----------|-----------|:-:|-----------|
 | Associació de veïns de Canyet           | Riera de Canyet, 27 |        |         |
 | Biblioteca Can Casacuberta              | Carrer de Mossèn Anton Romeu, 48 ( espai Bet: enric borras 43-47) | [Festa de la Paraula Viva][daltlavila-fb]         | [Moments][cancasacuberta-tw]        |
-| Casal D'Avis Antonia Boada              | Plaça Antonia Boada i Ros, 0,  | [Jocs de Taula][antoniaboada-fb]       |         |
+| Casal D'Avis Antonia Boada              | Plaça Antonia Boada i Ros, 0,  | [Jocs de Taula][antoniaboada-fb]       | [Moments][antoniaboada-tw]        |
 | Casal de Gent Gran de Bonavista-Canyet              |  Carrer d'Eliseu Meifren, 48 |        |         |
 | Casal de Gent Gran de Can Mercader              | Plaça Lluís Solà Escofet, 15, (Can Mercader) | [Dia de la Música][canmercader-fb]        |         |
 | Casal D'Avis Sant Antoni Llefià              | Carrer de Sant Frederic, 15 |        |         |
@@ -58,6 +58,7 @@ __Centres que NO obriran__ (adreceu-vos a qualsevol altre col·legi proper, pode
 | Institut La Pineda    | Escola Joan Llongueras, Centre Cívic Can Cabanyes, Escola Jungfrau          |         |         |
 
 [antoniaboada-fb]: https://www.facebook.com/events/485368475169055
+[antoniaboada-tw]: https://twitter.com/i/moments/914147578308173824
 [arturmartorell-fb]: https://www.facebook.com/events/248333275691622/
 [arturmartorell-tw]: https://twitter.com/i/moments/913910282686263297
 [badalona7-fb]: https://www.facebook.com/events/117212812306760/
