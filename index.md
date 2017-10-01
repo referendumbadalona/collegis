@@ -25,7 +25,7 @@ __Centres que obriran__
 | Escola Alexandre Galí              | Avinguda de Caritg, s/n |        | [Moments][alexandregali-tw]        |
 | Escola pública Antoni Botey              |  Avinguda del Doctor Bassols, 77  |       | [Moments][antonibotey-tw]        |
 | Escola Artur Martorell              | Carrer de la Seu d'Urgell, 34  | [Inici de Curs][arturmartorell-fb]        | [Moments][arturmartorell-tw]      |
-| CEIP Baldiri Reixac              | Carrer de Juan Valera, 159 |        |         |
+| CEIP Baldiri Reixac              | Carrer de Juan Valera, 159 |        | [Moments][baldirirexac-tw]        |
 | CEIP Feliu i Vegués              | Carrer de Feliu i Vegués, 2 |        | [Moments][feliuvegues-tw]        |
 | Col·legi Públic Folch i Torres              | Carrer de Wagner, 68-84 |        | [Moments][folchitorres-tw]        |
 | Col·legi Públic Itaca              | Ctra. Antiga de València, 99  |        | [Moments][itaca-tw]        |
@@ -66,6 +66,7 @@ __Centres que NO obriran__ (adreceu-vos a qualsevol altre col·legi proper, pode
 [arturmartorell-fb]: https://www.facebook.com/events/248333275691622/
 [arturmartorell-tw]: https://twitter.com/i/moments/913910282686263297
 [badalona7-fb]: https://www.facebook.com/events/117212812306760/
+[baldirirexac-tw]: https://twitter.com/i/moments/914403120658206720
 [baldomersola-tw]: https://twitter.com/i/moments/914195797247447042
 [canmercader-fb]: https://www.facebook.com/events/1507131589365477/
 [canmercader-tw]: https://twitter.com/i/moments/914344702866001922
